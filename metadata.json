@@ -1,0 +1,6 @@
+{
+  "name": "Tashkent Street Racer 3D",
+  "description": "High-octane mobile 3D street racing and car simulator set in Tashkent with Wi-Fi multiplayer, smart AI drivers, day/night weather, and detailed urban routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
